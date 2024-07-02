@@ -1,6 +1,6 @@
 
 # SwiftFetcher
-<img src="https://github.com/metloub/INSERTLOGO" width="192" align="right" hspace="20" />
+<img src="https://cdn.discordapp.com/attachments/1190273551404638229/1257409580070342797/512.png?ex=6684f62d&is=6683a4ad&hm=bbf3fb355a05efb47473fe4835e64977db165a3c75458a162f559daf3e135e84&" width="192" align="right" hspace="20" />
 
 [![License](https://img.shields.io/github/license/Metloub/SwiftFetcher)]([LICENSE](https://github.com/metloub/SwiftFetcher/blob/main/LICENSE))
 
