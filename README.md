@@ -11,11 +11,6 @@ Imagine a sleek, modern app that makes downloading files a breeze. SwiftFetcher,
 ## Features 🚀
 
 - **Pause and Resume Downloads:** Users can pause downloads and resume them later without starting over.
-- **Download Scheduling:** Schedule downloads to occur at specific times.
-- **Bandwidth Allocation:** Limit the bandwidth used by the app to avoid consuming all internet resources.
-- **Queue Management:** Organize downloads in queues for better management.
-- **Error Recovery:** Ability to recover and resume downloads that have been interrupted due to lost connections, network issues, or system shutdowns.
-- **User Authentication:** Support for sites that require login credentials to download files.
 - **File Management:** Options to categorize downloaded files and store them in designated folders.
 - **Download History:** Keep a record of all downloads with details like date, size, and URL.
 - **User Interface Customization:** Allow users to customize the look and feel of the app.
@@ -35,6 +30,11 @@ Please note that while we strive to fulfill all feature requests, we may not be 
 ![SS2](url_to_screenshot_2)
 
 ## To-Do ✅
+- **Error Recovery:** Ability to recover and resume downloads that have been interrupted due to lost connections, network issues, or system shutdowns.
+- **Download Scheduling:** Schedule downloads to occur at specific times.
+- **Bandwidth Allocation:** Limit the bandwidth used by the app to avoid consuming all internet resources.
+- **Queue Management:** Organize downloads in queues for better management.
+- **User Authentication:** Support for sites that require login credentials to download files.
 - **Language Support:** Multilingual support for wider user accessibility.
 - **Help and Support Documentation:** Provide a help section or user manual within the app.
 - **Drag and Drop:** Easy-to-use drag and drop interface for adding download links.
