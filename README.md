@@ -25,9 +25,11 @@ Please note that while we strive to fulfill all feature requests, we may not be 
 
 ## Screenshots 📸
 
-![SS1](url_to_screenshot_1)
+![SS1](https://cdn.discordapp.com/attachments/720421848692818081/1263308476667658250/SwiftFetcher_Downloads.png?ex=669fb1f3&is=669e6073&hm=7106ec86de5c7599d975acc65ea045e739d8507aa39692150d5eae8154154551&)
 
-![SS2](url_to_screenshot_2)
+![SS2](https://cdn.discordapp.com/attachments/720421848692818081/1263308477061927052/SwiftFetcher_Settings.png?ex=669fb1f4&is=669e6074&hm=51879119b0a054a4ad22f15a40d186feb5dd40cef90c8c3a32eb099583f220f2&)
+
+![SS3](https://cdn.discordapp.com/attachments/1253810704289366067/1253810704868315268/image.png?ex=669f6b76&is=669e19f6&hm=39dacbc1b9684c1c4d6ed3252bd7d424040821c8a6e7007d6802672f5afa5444&)
 
 ## To-Do ✅
 - **Error Recovery:** Ability to recover and resume downloads that have been interrupted due to lost connections, network issues, or system shutdowns.
